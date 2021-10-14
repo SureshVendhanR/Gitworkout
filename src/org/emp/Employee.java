@@ -9,6 +9,7 @@ public void empName() {
 }
 public void empDob() {
 	System.out.println("empDob:03/03/1993");
+	System.out.println("EmpDob:3rd Mar 1993");
 }
 public void empPhone() {
 	System.out.println("empPhone:+91-1234567890");
